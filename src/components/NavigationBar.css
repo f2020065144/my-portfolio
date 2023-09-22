@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(210, 193, 227);
+    padding: 0px 25px;
+    height: 45px;
+}
+
+nav h1{
+    
+    font-weight: 600;
+    font-size: 20pt;
+    margin: 5px 0px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 1.5rem;
+    list-style: none;
+    font-size: 12pt;
+    font-weight: 600;
+    color: black;
+    margin: 5px 0px;
+    list-style: none;
+    text-decoration: none; 
+}
+
+nav ul li{
+    text-decoration: none; 
+    display: block;
+    color: black;
+}
+
+nav ul li Link:hover{
+    color: white;
+}

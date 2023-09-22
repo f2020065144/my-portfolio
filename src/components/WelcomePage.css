@@ -1,0 +1,138 @@
+*{
+    background-color: #dee7e8;
+}
+#title{
+    font-size: 30pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    text-shadow:  4px 4px 4px #aaa;
+    padding-top: 150px;
+    padding-left: 30px;
+}
+#titlename{
+    font-size: 25pt;
+    font-family: 'Clear Sans';
+    text-shadow:  4px 4px 4px #aaa;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#btnreach{
+    font-size: 18pt;
+    font-family: 'Clear Sans';
+    background: #343434;
+    color: #FFFFFF;
+    height: 50px;
+    width: 200px;
+    border-radius: 3px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+     transition: all 0.2s ease-in-out;
+     margin-left: 30px;
+     margin-top: 20px;
+}
+#btnreach:hover{
+    font-size: 18pt;
+    font-family: 'Clear Sans';
+    background: #B4B0AB;
+    color: #FFFFFF;
+    height: 50px;
+    width: 200px;
+    border-radius: 3px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px rgba(145, 92, 92, .4);
+    
+}
+
+#experiencediv{
+    background: #FFFFFF;
+}
+
+#exptitle{
+    font-size: 30pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    color: #343434;
+    padding: 80px 0 0 60px ; 
+    text-shadow:  4px 4px 4px #aaa;
+}
+#headingdetail{
+    font-size: 22pt;
+    font-family: 'Clear Sans';
+    color: #343434;
+    text-shadow:  4px 4px 4px #aaa;
+    
+}
+#detaildiv{
+    font-size: 18pt;
+    font-family: 'Clear Sans';
+    color: #343434;
+    padding: 100px 0 0 50px ; 
+}
+
+#skilltitle{
+     font-size: 30pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    color: #343434;
+    padding: 60px 0 0 40px ; 
+}
+
+#skilldiv{
+     margin: 25px 25px  70px 80px;
+}
+#skilltitle{
+   font-size: 30pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    color: #343434;
+    padding: 80px 0 0 60px ; 
+    text-shadow:  4px 4px 4px #aaa;
+}
+#skill{
+     font-size: 25pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    color: #343434;
+    padding: 80px 0 0 40px ; 
+    text-shadow:  4px 4px 4px #aaa;
+}
+#skillsdetail{
+     font-size: 20pt;
+    font-family: 'Clear Sans';
+    color: #343434;
+    padding: 10px 0 0 40px ; 
+}
+.progress-bar {
+  width: 530px;
+  background-color: #B4B0AB;
+  height: 25px;
+  border-radius: 2px;
+  margin: 0 0 0 40px;
+}
+
+.progress {
+  height: 100%;
+  background-color: #000000; 
+  border-radius: 2px;
+}
+
+
+#language{
+     font-size: 25pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    color: #343434;
+    padding: 80px 0 0 40px ; 
+    text-shadow:  4px 4px 4px #aaa;
+}
+#languagedetail{
+     font-size: 20pt;
+    font-family: 'Clear Sans';
+    color: #343434;
+    padding: 10px 0 0 40px ; 
+}
+#myimg{
+    margin-top: 30px;
+}

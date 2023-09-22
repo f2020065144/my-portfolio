@@ -1,0 +1,75 @@
+
+#reachimage{
+    margin: 10px 0 10px 25px;
+}
+
+#myimg{
+    width: 600px ;
+    height: 500px;
+}
+
+#reach_div{
+    background: #848080;
+    margin: -20px 0 0 0;
+}
+
+#rachdiv{
+    margin: 25px 0 25px 0;
+    text-align: left;
+}
+#reachhead{
+    color: #3d0707;
+    text-align: left;
+    padding: 100px 0 0 60px ;
+   
+}
+#reachout{
+    font-family: 'Clear Sans';
+    font-weight: bold;
+}
+
+#name{
+    font-size: 18pt;
+    font-family: 'Clear Sans';
+    font-weight: bold;
+    padding: 50px 0 0 0;
+}
+#gmail{
+    font-size: 14pt;
+    font-family: 'Clear Sans';
+
+}
+#number{
+    font-size: 14pt;
+    font-family: 'Clear Sans';
+  
+}
+
+#cv{
+    color: white;
+    font-size: 14pt;
+    font-family: 'Clear Sans';
+}
+#cv:hover{
+    color:Red; 
+    list-style-type: none;
+    text-decoration: none;
+}
+#contactme{
+    font-size: 14pt;
+    font-family: 'Clear Sans';
+    padding: 80px 0 0 0;
+}
+#Linkdin{
+    margin: 10px 10px 0 0;
+}
+#Instagram{
+    margin: 10px 10px 0 10px;
+}
+#Github{
+    margin: 10px 10px 0 10px;
+}
+#Twitter{
+    margin: 10px 10px 0 10px;
+}
+
